@@ -28,7 +28,7 @@ for i in range(2,n):
 else:
     print("Number is prime")
 
-#5 
+#5 - Sum of first n natural numbers
 n = int(input("Enter the number: "))
 i = 1
 sum = 0
