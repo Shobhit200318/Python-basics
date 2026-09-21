@@ -1,0 +1,1 @@
+Python is a very simple and powerful programming language. It is easy to learn and widely used for data science.
